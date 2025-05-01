@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TaskFlow360.Infrastructure/1.0.0": {
+        "dependencies": {
+          "TaskFlow360.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TaskFlow360.Infrastructure.dll": {}
+        }
+      },
+      "TaskFlow360.Domain/1.0.0": {
+        "runtime": {
+          "TaskFlow360.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskFlow360.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskFlow360.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

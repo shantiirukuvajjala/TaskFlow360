@@ -1,0 +1,11 @@
+C:\My Projects\TaskFlow360\backend\TaskFlow360.Domain\bin\Debug\net9.0\TaskFlow360.Domain.deps.json
+C:\My Projects\TaskFlow360\backend\TaskFlow360.Domain\bin\Debug\net9.0\TaskFlow360.Domain.dll
+C:\My Projects\TaskFlow360\backend\TaskFlow360.Domain\bin\Debug\net9.0\TaskFlow360.Domain.pdb
+C:\My Projects\TaskFlow360\backend\TaskFlow360.Domain\obj\Debug\net9.0\TaskFlow360.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\TaskFlow360\backend\TaskFlow360.Domain\obj\Debug\net9.0\TaskFlow360.Domain.AssemblyInfoInputs.cache
+C:\My Projects\TaskFlow360\backend\TaskFlow360.Domain\obj\Debug\net9.0\TaskFlow360.Domain.AssemblyInfo.cs
+C:\My Projects\TaskFlow360\backend\TaskFlow360.Domain\obj\Debug\net9.0\TaskFlow360.Domain.csproj.CoreCompileInputs.cache
+C:\My Projects\TaskFlow360\backend\TaskFlow360.Domain\obj\Debug\net9.0\TaskFlow360.Domain.dll
+C:\My Projects\TaskFlow360\backend\TaskFlow360.Domain\obj\Debug\net9.0\refint\TaskFlow360.Domain.dll
+C:\My Projects\TaskFlow360\backend\TaskFlow360.Domain\obj\Debug\net9.0\TaskFlow360.Domain.pdb
+C:\My Projects\TaskFlow360\backend\TaskFlow360.Domain\obj\Debug\net9.0\ref\TaskFlow360.Domain.dll
