@@ -5,4 +5,11 @@ obj
 .user
 .suo
 .db
+node_modules/
+dist/
+build/
+.env
+*.dll
+*.pdb
+*.exe
 .DS_Store
